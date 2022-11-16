@@ -1,4 +1,4 @@
-import ThisIsNotApage from "./moon";
+import ThisIsNotApage from "./page.client";
 
 export default function SlugPage({
   params: { slug },
