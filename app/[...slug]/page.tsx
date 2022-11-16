@@ -1,4 +1,4 @@
-import ThisIsNotApage from "./page.client";
+import ThisIsNotApage from "./this-is-not-a-page";
 
 export default function SlugPage({
   params: { slug },
